@@ -10,4 +10,4 @@ Project Requirements:
   Momentary Push Button Switch
   Audio Jack Female Connector
   Resistors (see SpaceInvaders_v2.c for details)
-  
+  TM4C123GXL Evaluation Board

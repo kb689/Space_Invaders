@@ -2,6 +2,8 @@
 
 Project for the edx online course: Embedded Systems Shape the World.
 
+Recreates the Space Invaders game on a TI TM4C123 microcontroller. 
+
 Project Requirements:
   KEILv4 IDE
   Nokia5110 LED display

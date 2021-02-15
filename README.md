@@ -2,7 +2,7 @@
 
 Recreates the Space Invaders game on a TI TM4C123 microcontroller and peripheral hardware mentioned below.
 
-Project for the edx online course: Embedded Systems Shape the World.
+Project for the edx course: Embedded Systems Shape the World.
 
 Project Requirements:
   KEILv4 IDE

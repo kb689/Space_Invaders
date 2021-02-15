@@ -1,8 +1,8 @@
 # Space_Invaders
 
-Project for the edx online course: Embedded Systems Shape the World.
+Recreates the Space Invaders game on a TI TM4C123 microcontroller and peripheral hardware mentioned below.
 
-Recreates the Space Invaders game on a TI TM4C123 microcontroller. 
+Project for the edx online course: Embedded Systems Shape the World.
 
 Project Requirements:
   KEILv4 IDE
@@ -13,3 +13,5 @@ Project Requirements:
   Audio Jack Female Connector
   Resistors (see SpaceInvaders_v2.c for details)
   TM4C123GXL Evaluation Board
+ 
+*****See SpaceInvaders_v2.c for hardware I/O connections*****
